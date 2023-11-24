@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EquisBrea
 - 👀 I’m interested in coding and developing solutions through technology
 - 🌱 I’m currently learning Java, JavaScript, Python, OOP, HTML, CSS
-- 💞️ I’m looking to collaborate on projects related to handling of complex databases (with varied datasets), and game development.
+- 💞️ I’m looking to collaborate on projects related to handling complex databases (with varied datasets), and game development.
 - 📫 How to reach me ...
 
 <!---
